@@ -1,0 +1,16 @@
+D:\VSProjects\Einführung\Einführung\Einführung\obj\Debug\net5.0\Einführung.csproj.AssemblyReference.cache
+D:\VSProjects\Einführung\Einführung\Einführung\obj\Debug\net5.0\Einführung.GeneratedMSBuildEditorConfig.editorconfig
+D:\VSProjects\Einführung\Einführung\Einführung\obj\Debug\net5.0\Einführung.AssemblyInfoInputs.cache
+D:\VSProjects\Einführung\Einführung\Einführung\obj\Debug\net5.0\Einführung.AssemblyInfo.cs
+D:\VSProjects\Einführung\Einführung\Einführung\obj\Debug\net5.0\Einführung.csproj.CoreCompileInputs.cache
+D:\VSProjects\Einführung\Einführung\Einführung\bin\Debug\net5.0\Einführung.exe
+D:\VSProjects\Einführung\Einführung\Einführung\bin\Debug\net5.0\Einführung.deps.json
+D:\VSProjects\Einführung\Einführung\Einführung\bin\Debug\net5.0\Einführung.runtimeconfig.json
+D:\VSProjects\Einführung\Einführung\Einführung\bin\Debug\net5.0\Einführung.runtimeconfig.dev.json
+D:\VSProjects\Einführung\Einführung\Einführung\bin\Debug\net5.0\Einführung.dll
+D:\VSProjects\Einführung\Einführung\Einführung\bin\Debug\net5.0\Einführung.pdb
+D:\VSProjects\Einführung\Einführung\Einführung\obj\Debug\net5.0\Einführung.dll
+D:\VSProjects\Einführung\Einführung\Einführung\obj\Debug\net5.0\ref\Einführung.dll
+D:\VSProjects\Einführung\Einführung\Einführung\obj\Debug\net5.0\Einführung.pdb
+D:\VSProjects\Einführung\Einführung\Einführung\obj\Debug\net5.0\Einführung.genruntimeconfig.cache
+D:\VSProjects\Einführung\Einführung\Einführung\obj\Debug\net5.0\refint\Einführung.dll
